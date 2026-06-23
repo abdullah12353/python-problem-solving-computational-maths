@@ -70,4 +70,3 @@ The notebook uses Monte Carlo simulation to estimate how often the game is won b
 ## What I Learned
 
 This module strengthened my ability to turn mathematical problems into computational experiments. In particular, it helped me build confidence using Python to test conjectures, simulate random processes, visualise results and connect numerical output back to mathematical reasoning.
-::: 
